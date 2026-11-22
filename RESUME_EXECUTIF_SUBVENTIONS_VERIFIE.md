@@ -241,8 +241,6 @@ Source : notice FPRNM, pages 5 à 8.
 
 La préfecture publie plusieurs démarches RVPAPI, notamment pour les particuliers, les professionnels et les collectivités.
 
-Leur présentation ne désigne pas explicitement le cas d'un syndicat de copropriétaires. Le choix du formulaire est donc à faire confirmer par Mayane ou la DDTM. Il s'agit d'une orientation administrative, et non d'une remise en cause de l'éligibilité confirmée par Mayane.
-
 Page officielle :
 
 https://www.var.gouv.fr/index.php/Actions-de-l-Etat/Risques-naturels-et-technologiques/Fonds-de-prevention-des-risques-naturels-majeurs/Suis-je-eligible
