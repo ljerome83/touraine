@@ -170,6 +170,16 @@ Le budget définitif et le reste à charge seront arrêtés à partir des devis 
 
 Source : diagnostic, page 3 ; calculs sur les taux et plafonds annoncés.
 
+### 5.4. Indemnité d’assurance déjà perçue pour deux portes (sinistre Dossier n°2025345378 / Réf. compagnie : 0000018019245273 )
+
+À la suite des inondations de 2025, la copropriété a reçu une indemnité d’assurance de 1 500 € pour deux portes en bois. Leur remplacement n’a pas encore été réalisé.
+
+**Cette indemnité doit être déclarée dans le dossier de subvention, avec le décompte de l’assureur identifiant les portes et les réparations concernées. Elle sera rapprochée des dépenses correspondantes pour éviter un double financement.**
+
+Le principe de calcul est le suivant : aide FPRNM = (dépenses éligibles − indemnité d’assurance retenue pour le même objet) × taux de subvention. Il ne s’agit donc pas nécessairement de retirer directement 1 500 € du montant de l’aide.
+
+Le syndic transmettra les justificatifs d’assurance et les devis à l’instructeur pour établir le calcul définitif des aides État et TPM. L’indemnité concernant les portes ne doit pas être imputée indistinctement aux batardeaux.
+
 ## 6. Actions à engager par le syndic
 
 Le dossier des parties communes sera préparé au nom du syndicat des copropriétaires de la résidence La Touraine, représenté par son syndic.
