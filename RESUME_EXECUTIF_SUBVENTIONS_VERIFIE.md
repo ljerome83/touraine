@@ -75,9 +75,9 @@ Les batardeaux sont préconisés sur les ouvrants 1, 3, 4 et 5. Ils visent notam
 | 5 | Fenêtre | 1,25 m | 0,88 m |
 | Total des largeurs | | 4,19 m | |
 
-Les dimensions définitives de fabrication doivent être relevées sur place par les entreprises.
+Les entreprises relèveront sur place les dimensions des quatre ouvrants et établiront les devis de fourniture et de pose correspondants.
 
-Un écart documentaire est à régulariser en parallèle de la consultation : la synthèse du diagnostic annonce 9,13 mètres linéaires, alors que les quatre largeurs détaillées totalisent 4,19 mètres. Le syndic demandera à Mayane de confirmer le linéaire à retenir.
+Le montant de 5 028 € figurant au diagnostic est une estimation indicative. Le budget et les demandes de subvention seront établis à partir des devis retenus.
 
 Le montant indicatif de 5 028 € correspond à 4,19 m × 1 200 €/m. Cette concordance ne remplace pas la confirmation du cabinet ni les devis.
 
@@ -179,13 +179,12 @@ Les devis, factures et coordonnées bancaires devront être cohérents avec l'id
 | Étape | Action |
 |---|---|
 | 1 — Consultation | Solliciter les entreprises pour les quatre batardeaux et les trois portes, avec visite sur place et devis détaillés non acceptés. |
-| 2 — Coordination technique | Demander à Mayane la confirmation du linéaire et lui transmettre les devis pour vérification de leur conformité au diagnostic. |
-| 3 — Préparation administrative | Réunir les pièces du syndicat, les justificatifs de représentation et les décisions d'AG nécessaires au projet et à son financement. |
-| 4 — Guichet État | Faire préciser par Mayane ou la DDTM la démarche adaptée au syndicat, puis déposer la demande FPRNM. |
-| 5 — Complément TPM | Demander dès maintenant la convention et les conditions du complément, afin de préparer ce volet sans attendre la fin des travaux. |
-| 6 — Réalisation | Après les accords et autorisations nécessaires, accepter les devis et faire réaliser les travaux. |
-| 7 — Versement État | Transmettre les justificatifs de réalisation et de conformité pour obtenir le versement FPRNM. |
-| 8 — Versement TPM | Déposer les sept pièces du dossier TPM, dont la justification du versement FPRNM. |
+| 2 — Préparation administrative | Réunir les pièces du syndicat, les justificatifs de représentation et les décisions d'AG nécessaires au projet et à son financement. |
+| 3 — Guichet État | Faire préciser par Mayane ou la DDTM la démarche adaptée au syndicat, puis déposer la demande FPRNM. |
+| 4 — Complément TPM | Demander dès maintenant la convention et les conditions du complément, afin de préparer ce volet sans attendre la fin des travaux. |
+| 5 — Réalisation | Après les accords et autorisations nécessaires, accepter les devis et faire réaliser les travaux. |
+| 6 — Versement État | Transmettre les justificatifs de réalisation et de conformité pour obtenir le versement FPRNM. |
+| 7 — Versement TPM | Déposer les sept pièces du dossier TPM, dont la justification du versement FPRNM. |
 
 Le diagnostic prévoit un accompagnement de Mayane pour les démarches.
 
@@ -216,7 +215,6 @@ Les justificatifs propres à une personne physique ne doivent pas être transpos
 - Plan de localisation et référence cadastrale BE166.
 - Devis détaillés des batardeaux et des portes.
 - Photographies et repérage des ouvrants.
-- Éventuelle confirmation ou correction du linéaire par Mayane.
 - Pièces d'urbanisme si les travaux nécessitent une autorisation.
 
 ### 7.3. Assurance et sinistre antérieur
@@ -271,7 +269,7 @@ Source : formulaire de demande TPM, page 2.
 
 | Interlocuteur | Coordonnées | Objet |
 |---|---|---|
-| Mayane — ALABRI | contact@alabri-metropoletpm.com — 04 22 46 11 85 | Accompagnement, vérification des devis, linéaire, constitution du dossier. |
+| Mayane — ALABRI | contact@alabri-metropoletpm.com — 04 22 46 11 85 | Accompagnement, vérification des devis, constitution du dossier. |
 | Métropole TPM — service PAPI | papitpm@metropoletpm.fr | Convention, complément métropolitain et dépôt du dossier TPM. |
 | DDTM du Var — FPRNM | ddtm-spp-pr@var.gouv.fr | Orientation vers le formulaire adapté au syndicat et questions de dépôt. |
 | Royal Immo — La Valette | lavalette@royal-immo.fr — 04 94 27 88 70 | Pilotage du dossier pour le syndicat des copropriétaires. |
